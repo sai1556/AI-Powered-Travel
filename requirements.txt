@@ -1,1 +1,7 @@
-pip freeze > requirements.txt
+streamlit
+langchain
+google-generativeai
+openai
+pandas
+numpy
+
